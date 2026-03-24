@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎯 Aspiring Full-Stack Web Developer<br>💻 Passionate about building real-world systems and solving problems through code</p>
+<p align="left">🎯 Aspiring Full-Stack Web Developer</p>
 
 ###
 
