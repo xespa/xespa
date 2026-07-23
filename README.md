@@ -1,8 +1,8 @@
-<h1 align="left">Hi👋 I'm Kristhian</h1>
+<h1 align="left">Hi👋 I'm Mark Christian Español</h1>
 
 ###
 
-<p align="left">🎯 Aspiring Full-Stack Web Developer</p>
+<p align="left">🎯 Aspiring Web Developer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>🌱 Currently learning: JavaScript, PHP, SQL<br>🔧 Building: Web-based systems (reservation systems, student management systems)<br>🎯 Goal: To become a professional software developer and work on impactful projects</p>
+<p align="left">✨ Creating bugs since 2024🔧 Building: Web-based systems (reservation systems, student management systems)</p>
 
 ###
 
